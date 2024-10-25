@@ -30,7 +30,7 @@ A full-stack web application built with Node.js/Express backend and React/Vite f
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rule-engine.git
+git clone https://github.com/Shivansh-22/rule-engine.git
 cd rule-engine
 ```
 
